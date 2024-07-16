@@ -1,6 +1,6 @@
 # Setting up
 
-- Clone the project from github.
+- Clone the project from github. this is the url = <https://github.com/tolu2507/workdone.git>
 - After cloning the project from github, run npm install --legacy-peer-deps.
 - Ensure you are connected to an emulator or a physical device.
 - Run npm start, then press a to run for android, press i for ios and w for web.
